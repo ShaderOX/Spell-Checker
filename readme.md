@@ -1,3 +1,4 @@
+
 **Table of Content**
 - [Spell Checker](#spell-checker)
   - [Abstract](#abstract)
@@ -24,8 +25,8 @@ As the the collision resolution, it uses chaining method to resolve the collisio
 
 ## Setup
 ```bash
-  git clone <repo link>
-  cd <repo dir>
+  git clone https://github.com/ShaderOX/Spell-Checker
+  cd Spell-Checker
   make
 ```
 
